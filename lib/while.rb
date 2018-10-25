@@ -4,5 +4,5 @@ def using_while
   puts "Wingardium Leviosa"
   encounter += 1
 end
-
-
+end
+end
