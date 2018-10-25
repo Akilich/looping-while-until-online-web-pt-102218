@@ -5,4 +5,3 @@ def using_while
   encounter += 1
 end
 end
-end
